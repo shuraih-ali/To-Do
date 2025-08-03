@@ -1,16 +1,17 @@
-# app
+**A basic To-Do list app built with Flutter.**
 
-A new Flutter project.
+**📱 Features:**
 
-## Getting Started
+-> Add tasks
 
-This project is a starting point for a Flutter application.
+-> Delete tasks
 
-A few resources to get you started if this is your first Flutter project:
+-> Mark tasks as completed
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-> Clean and simple user interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**📦 APK**
+You can download the APK from the Releases page.
+
+**🛠 Built With**
+Flutter And Dart
